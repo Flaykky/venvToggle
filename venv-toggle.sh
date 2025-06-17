@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # === CONFIGURATION ===
-LANG_MODE="eng"       # "ru" или "eng"
-LOG_LEVEL=2          # 0 = без логов, 1 = важно, 2 = максимум
+LANG_MODE="eng"       # "ru" or "eng"
+LOG_LEVEL=2          # 0 = without any logs, 1 = only important logs, 2 = maximum logs
 
 # === TRANSLATIONS ===
 log_msg() {
