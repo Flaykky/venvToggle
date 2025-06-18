@@ -127,8 +127,14 @@ sudo apt install python3-venv
 4. **Reload your shell** or open a new terminal:
 
    ```bash
-   source ~/.bashrc  # or source ~/.zshrc
+   source ~/.bashrc  
    ```
+
+  if you are using zsh:
+  ```bash
+   source ~/.zshrc  
+   ```
+
 
 ---
 
