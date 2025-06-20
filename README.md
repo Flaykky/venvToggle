@@ -1,6 +1,6 @@
 ## venv-toggle.sh Documentation
 
-This document provides detailed installation instructions, configuration options, and usage examples for the `venv-toggle.sh` script. The script allows you to toggle a Python virtual environment (venv) on and off, check its status, and control logging verbosity and language.
+This documentation provides detailed installation instructions, configuration options, and usage examples for the `venv-toggle.sh` script. The script allows you to toggle a Python virtual environment (venv) on and off, check its status, and control logging verbosity and language.
 
 ---
 
